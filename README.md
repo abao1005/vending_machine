@@ -51,5 +51,7 @@ MPLAB XC8
 * 步進馬達轉速調整
 * 於扭力不足之馬達上實現可運行之旋轉機關
 
-## Demo 影片
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LyKamEJr3K4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Demo 影片  
+
+<a href="https://youtu.be/LyKamEJr3K4" target="_blank"><img src="https://github.com/abao1005/vending_machine/blob/main/picture/appearance.jpg" 
+alt="Demo影片" width="360" height="270" border="10" /></a>
