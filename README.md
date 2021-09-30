@@ -53,5 +53,5 @@ MPLAB XC8
 
 ## Demo 影片  
 
-<a href="https://youtu.be/LyKamEJr3K4" target="_blank"><img src="https://github.com/abao1005/vending_machine/blob/main/picture/appearance.jpg" 
+<a href="https://youtu.be/LyKamEJr3K4" target="_blank"><img src="https://github.com/abao1005/vending_machine/blob/main/picture/TeamMember.jpg" 
 alt="Demo影片" width="360" height="270" border="10" /></a>
